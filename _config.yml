@@ -5,7 +5,8 @@ title: Coline Mouze
 description: Personal website
 baseurl: "/bay"
 url: "https://eliottvincent.github.io"
-og_image: /assets/img/profile-pic.jpg
+og_image: /home/am/Documents_Coline/Master/RefresherCS/Lab2/ColineMouze.github.io/logo.pdf
+%/assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
 header:
