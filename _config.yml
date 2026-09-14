@@ -6,7 +6,7 @@ description: Personal website
 baseurl: "/bay"
 url: "https://ColineMouze.github.io"
 og_image: /home/am/Documents_Coline/Master/RefresherCS/Lab2/ColineMouze.github.io/logo.pdf
-%/assets/img/profile-pic.jpg
+#/assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
 header:
