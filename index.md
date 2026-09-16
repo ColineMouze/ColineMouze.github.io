@@ -1,12 +1,12 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: website picture
+  src: /home/am/Documents_Coline/Master/RefresherCS/Lab2/ColineMouze.github.io/logo.pdf
+  alt: logo picture
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome! This site is my own page where you can find my work and my contact.
 </p>
 
 <p>
