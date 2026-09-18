@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /home/am/Documents_Coline/Master/RefresherCS/Lab2/ColineMouze.github.io/logo.pdf
+  src: /assets/img/Logo.png
   alt: logo picture
 ---
 
