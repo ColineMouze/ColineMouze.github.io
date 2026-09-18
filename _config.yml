@@ -15,6 +15,10 @@ header:
     - name: Work
     - name: Blog
 
+documents:
+    - name: Business card
+    - link: https://github.com/ColineMouze/CS-lab1/blob/master/card.pdf
+
 footer:
   show_powered_by: true
   contact:
@@ -41,9 +45,6 @@ footer:
     - type: dribbble
       name: Dribbble
       link: https://dribbble.com/ColineMouze
-    - type: rss
-      name: RSS
-      link: /feed.xml
 
 # Build settings
 markdown: kramdown
