@@ -12,3 +12,8 @@ profile_picture:
 <p>
   You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
 </p>
+<p>
+  <a href="https://github.com/ColineMouze/CS-lab1/releases/latest/download/card.pdf">
+    Download my business card
+  </a>
+</p>
